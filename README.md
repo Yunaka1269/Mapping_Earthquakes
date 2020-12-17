@@ -16,7 +16,7 @@
 
 		Visual Studio Code 1.51.1
 
-	        D3.js (https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js)
+		D3.js (https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js)
 		   
 		Leaflet (https://unpkg.com/leaflet@1.6.0/dist/leaflet.css)
 	
@@ -26,5 +26,4 @@ Deliverable 1: add the tectonic plate data
 
 Deliverable 2: add major earthquake (M4.5+) data with popup display the magnitude and location of the earthquake
 
-Deliverable 3: add an additional map
-		           -dark : mapbox://styles/v1/mapbox/dark-v10
+Deliverable 3: add an additional map (dark : mapbox://styles/v1/mapbox/dark-v10)
