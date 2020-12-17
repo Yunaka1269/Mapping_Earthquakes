@@ -5,6 +5,7 @@
 ###Resources
 
 - url:		
+
 		Earthquake all week (https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson) 
 
 		Earthquake M4.5+ (https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geojson)
@@ -12,6 +13,7 @@
 		Tectonic plate data (https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json)
 
 - Software: 	   
+
 		Visual Studio Code 1.51.1
 
 	        D3.js (https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js)
